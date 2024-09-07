@@ -11,7 +11,7 @@
 </div>
   
 
-### <div align="center">I'm Thenula, a Whatsapp Bot developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Thenula, a Whatsapp Bot developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/darkhackersl/github-profilinator)  
