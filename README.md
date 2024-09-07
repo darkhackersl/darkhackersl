@@ -1,12 +1,20 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/2c281714fe69828f43e65375f67c0f6f7abdfdf0d8ea995b7e872d4a6f233479/68747470733a2f2f692e6962622e636f2f687930436e57392f5468656e752d6d642e706e67" align="center" style="width: 85%" />
-</div>  
+<img src="https://camo.githubusercontent.com/2c281714fe69828f43e65375f67c0f6f7abdfdf0d8ea995b7e872d4a6f233479/68747470733a2f2f692e6962622e636f2f687930436e57392f5468656e752d6d642e706e67" align="center" style="width: 50%" />
+</div>
+
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31umrkbnuqkh5bfm3qmr7ush6qtq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31umrkbnuqkh5bfm3qmr7ush6qtq&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
   
 
 ### <div align="center">I'm Thenula, a Whatsapp Bot developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/darkhackersl/github-profilinator)  
   
 
 - 🌱 I’m currently learning JAVASCRIPT and PYTHON🤫  
