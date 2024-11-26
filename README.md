@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/mJ5vk7c/Thenu-MD-new-card-1.png" align="center" style="width: 50%" />
+<img src="https://i.ibb.co/HDCFS9F/Thenu-MD-new-card-ofc.png" align="center" style="width: 50%" />
 </div>
 
 
